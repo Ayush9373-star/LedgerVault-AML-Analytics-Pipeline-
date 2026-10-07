@@ -7,7 +7,8 @@ Welcome to **LedgerVault**, an end-to-end financial crime analytics pipeline and
 ## 📊 Live System Telemetry Desk
 Below is the live operational dashboard interface I built for banking compliance teams to investigate active threats:
 
-![LedgerVault Dashboard Telemetry](Ledgervault_AML_Engine.png)
+![LedgerVault Dashboard Telemetry](
+Ledgervault_AML_Engine.png)
 
 ---
 
